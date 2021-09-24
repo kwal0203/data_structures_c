@@ -3,14 +3,14 @@
  *
  *                 Time  Space
  * build:          NA    O(n)
- * length:         O(n)  O(1)
+ * length:         O(1)  O(1)
  * get_at:         O(1)  O(1)
  * set_at:         O(1)  O(1)
  * insert_at:      O(n)  O(1)
  * delete_at:      O(n)  O(1)
  * insert_first:   O(n)  O(1)
  * delete_first:   O(n)  O(1)
- * insert_last:    O(1)  O(1)
+ * insert_last:    O(n)  O(1)
  * delete_last:    O(1)  O(1)
  * print_sequence: O(n)  O(1)
  *
